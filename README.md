@@ -18,7 +18,9 @@ Finalization: Testing scripts developed in MATLAB to run control system in varie
 ### Intelligent Algorithm for Optimization of Vehicle Travel
 
 Concept: predict traffic flow in future at various street intersections, using Graph Neural Network
+
 Development: Deep Learning algorithms GTNN model and LSTM model implemented from scratch, in C++
+
 Testing: Accuracy achieved: 95%
 
 ![image](https://github.com/Ayushsaha103/2023_URSCA_Research_Project/assets/71895904/28d81b0d-28db-4577-9522-abf0c9bc6109)

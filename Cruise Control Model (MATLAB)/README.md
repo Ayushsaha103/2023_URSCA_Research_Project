@@ -1,1 +1,1 @@
-### Run the simulation by running MAIN.m
+### Run the vehicle simulation by running MAIN.m

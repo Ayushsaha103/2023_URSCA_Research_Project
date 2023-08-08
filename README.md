@@ -19,7 +19,7 @@ Finalization: Testing scripts developed in MATLAB to run control system in varie
 ## PART 2
 ### Intelligent Algorithm for Optimization of Vehicle Travel
 
-Concept: predict traffic flow in future at various street intersections, using Graph Neural Network
+Concept: predict future traffic flow at various street intersections, using Graph Neural Network
 
 Development: Deep Learning algorithms GTNN model and LSTM model implemented from scratch, in C++
 

@@ -23,4 +23,5 @@ Development: Deep Learning algorithms GTNN model and LSTM model implemented from
 
 Testing: Predition accuracy achieved: 95%
 
-![image](https://github.com/Ayushsaha103/2023_URSCA_Research_Project/assets/71895904/28d81b0d-28db-4577-9522-abf0c9bc6109)
+![image](https://github.com/Ayushsaha103/2023_URSCA_Research_Project/assets/71895904/bd98e406-ca49-4ab3-84dc-d6ae227210e7)
+

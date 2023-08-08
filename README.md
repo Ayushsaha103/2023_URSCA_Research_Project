@@ -12,7 +12,7 @@ Finalization: Testing scripts developed in MATLAB to run control system in varie
 
           We determined optimal set of parameters to control follower vehicle travel
 
-![image](https://github.com/Ayushsaha103/2023_URSCA_Research_Project/assets/71895904/9a2f3bc2-4ca8-466d-86c1-76e458f7725f)
+![image](https://github.com/Ayushsaha103/2023_URSCA_Research_Project/assets/71895904/d9a81493-e777-47f3-a70d-4076140c7f39)
 
 
 

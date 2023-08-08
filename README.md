@@ -10,7 +10,7 @@ Concept: Develop closed loop control system to control vehicle gas/brake pedals
 
 Finalization: Testing scripts developed in MATLAB to run control system in variety of road conditions, and behavioral patterns of lead vehicle
 
-              We determined optimal set of parameters to control follower vehicle travel
+          We determined optimal set of parameters to control follower vehicle travel
 
 ![image](https://github.com/Ayushsaha103/2023_URSCA_Research_Project/assets/71895904/d3423c5b-6b91-466f-a345-40c83e1cf28d)
 
